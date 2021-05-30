@@ -8,6 +8,6 @@ It also investigates some other interesting statistics like burglar and victim a
 
 These statistics are visualized through graphs, charts, and interactive maps.
 
-It is written in Python and has the form of a tutorial so that anyone can follow the steps and recreate it.
+The project is written in Python and has the form of a tutorial so that anyone can follow the steps and recreate it.
 
 
